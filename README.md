@@ -15,3 +15,4 @@
 ## LÖSNING
   - Som en början kan rörliga kärror med utrustningen installeras vid utvalda övergångställen. Senare kan mer permanenta lösningar installeras.
   - Hastigheten kan visas på digitala skyltar och i navigeringssystem installerade i bilar.
+-  GPS på telefonen ska kunna ge informationen av den rekommenderade hastigheten (om man glömmer eller missar skylten)
