@@ -13,6 +13,6 @@
   
 - Göra trafiken mer säker för både trafikanter och icke trafikanter
 ## LÖSNING
-  - Som en början kan rörliga kärror med utrustningen installeras vid utvalda övergångställen. Senare kan mer permanenta lösningar installeras.
-  - Hastigheten kan visas på digitala skyltar och i navigeringssystem installerade i bilar.
--  GPS på telefonen ska kunna ge informationen av den rekommenderade hastigheten (om man glömmer eller missar skylten)
+  - sensorer som känner av frekvensen av antalet passerande fotgängare
+  -  en strobljus som blinkar mer frekvent beroende på hur många som står vid övergångstället
+  -   
