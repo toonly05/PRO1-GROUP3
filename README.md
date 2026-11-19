@@ -1,7 +1,6 @@
 # PRO1-GROUP3
 ## IDÉ
-  - Ett antal sensorer avläser när bipasserande barn korsar ett övergångsställe, samlar informationen under en längre period och kan reglera tidsramen för vilken väg hastighet som gäller i det området under dagen.
-  - En sensor som mäter trafikanters egentliga hastighet och förvarnar passerande om hur fort det egentligen körs vid tillfällen under dagen.
+  - Sensorer mäter och samlar information om användare av ett övergångsställe. Utifrån det skapar den en informationsbas om hur, när och vem använder övergångsstället vid tillfällen under dagen och varnar bilisten om när den används ofta och ber de att sakta ner. Meningen med vårat projekt är att beräkna användningsmängden av ett övergågngsställe och varna bilisten om denna användning
 ## målgrupp
 -fordonsförare 
 -fotgängare 
