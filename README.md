@@ -1,5 +1,5 @@
 # PRO1-GROUP3
 ## IDÉ
 ## målgrupp
-##SYFTE
-##LÖSNING
+## SYFTE
+## LÖSNING
