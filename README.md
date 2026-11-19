@@ -7,4 +7,8 @@
   
 - fotgängare 
 ## SYFTE
+
+- Uppemärksamma trafikanter när fotgängare eller cyklister korsar övergångstället
+  
+- Göra trafiken mer säker för både trafikanter och icke trafikanter
 ## LÖSNING
