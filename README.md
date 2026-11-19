@@ -9,7 +9,7 @@
 - fotgängare 
 ## SYFTE
 
-- Uppemärksamma trafikanter när fotgängare eller cyklister korsar övergångstället
+- Uppmärksamma trafikanter med hur trafikerat övergånstället är med hjälp av sensorer
   
 - Göra trafiken mer säker för både trafikanter och icke trafikanter
 ## LÖSNING
