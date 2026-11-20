@@ -5,7 +5,6 @@
 
 -  fordonsförare
   
-- fotgängare 
 ## SYFTE
 
 - Uppmärksamma trafikanter med hur trafikerat övergånstället är med hjälp av sensorer
