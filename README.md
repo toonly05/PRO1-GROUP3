@@ -9,9 +9,8 @@
   
 ## SYFTE
 
-- Uppmärksamma trafikanter med hur trafikerat övergånstället är med hjälp av sensorer
-  
-- Göra trafiken mer säker för både trafikanter och icke trafikanter
+- Förvarna användaren för hur vägförhållandet kan bli inom dagen eller kommande dagar så det kan adaptera sig för hur försiktig de ska vara och vad de bör tänka på.
+
 ## LÖSNING
   - sensorer som känner av frekvensen av antalet passerande fotgängare
   -  en strobljus som blinkar mer frekvent beroende på hur många som står vid övergångstället
