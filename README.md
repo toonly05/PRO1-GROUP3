@@ -8,10 +8,11 @@
 -  fordonsförare
   
 ## SYFTE
-
-- Förvarna användaren för hur vägförhållandet kan bli inom dagen eller kommande dagar så det kan adaptera sig för hur försiktig de ska vara och vad de bör tänka på.
+- Förvarna föraren om halka, dimma och dåligt väglag innan resan
+- Hjälpa föraren att anpassa hastighet och körsätt
+- Minska risken för olyckor orsakade av väder och väglag
 
 ## LÖSNING
-  - sensorer som känner av frekvensen av antalet passerande fotgängare
-  -  en strobljus som blinkar mer frekvent beroende på hur många som står vid övergångstället
-  -   
+- Sensorer som mäter temperatur, luftfuktighet och markfuktighet
+- En databas som sparar mätningarna och visar förändringar över tid
+- En notis till mobilen strax efter väckarklockan med dagens väglag
